@@ -213,6 +213,10 @@ p {
 
 /* About Info */
 
+#about-info {
+    min-height: 600px;
+}
+
 #about-info .info-left {
     float: left;
     width: 50%;
