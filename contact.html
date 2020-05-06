@@ -31,7 +31,41 @@
         <div class="container">
             <h1 class="l-heading"><span class="text-primary">Fale</span> Conosco</h1>
             <p>Por favor preencha o formulário para falar conosco.</p>
+            <form action="process.php">
+                <div class="form-group">
+                    <label for="name">Nome</label>
+                    <input type="text" name="name" id="name">
+                </div>
+                <div class="form-group">
+                    <label for="email">Email</label>
+                    <input type="email" name="email" id="email">
+                </div>
+                <div class="form-group">
+                    <label for="message">Mensagem</label>
+                    <textarea name="message" id="message "></textarea>
+                </div>
+                <button class="btn" type="submit">Enviar</button>
+            </form>
+        </div>
+    </section>
 
+    <section id="contact-info" class="bg-dark">
+        <div class="container">
+            <div class="box .bg-dark">
+                <i class="fas fa-hotel fa-3x"></i>
+                <h3>Localidade</h3>
+                <p>Av. dos Programadores, 100 - Caraguatatuba/SP</p>
+            </div>
+            <div class="box">
+                <i class="fas fa-phone fa-3x"></i>
+                <h3>Telefone</h3>
+                <p>+55 (12) 98765-4321</p>
+            </div>
+            <div class="box">
+                <i class="fas fa-envelope fa-3x"></i>
+                <h3>Email</h3>
+                <p>contato@hotelln.com.br</p>
+            </div>
         </div>
     </section>
 
