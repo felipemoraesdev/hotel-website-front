@@ -21,7 +21,7 @@
 
 ## 📖 Sobre 
 
-HLN website é template responsivo desenvolvido pensando nos hotéis locais. Nesse projeto foi implementado apenas o Frontend da aplicação para aprendizagem e fixação dos conhecimentos em HTML e CSS.
+HLN website é um template responsivo desenvolvido pensando nos hotéis locais. Nesse projeto foi implementado apenas o Frontend da aplicação para aprendizagem e fixação dos conhecimentos em HTML e CSS.
 
 ---
 
