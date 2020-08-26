@@ -21,7 +21,7 @@
 
 ## 📖 Sobre 
 
-HLN website é um template responsivo desenvolvido pensando nos hotéis locais. Nesse projeto foi implementado apenas o Frontend da aplicação para aprendizagem e fixação dos conhecimentos adiquiridos no curso da Udemy Modern HTML & CSS From The Beginnig do professor Brad Traversy.
+HLN website é um template responsivo desenvolvido pensando nos hotéis locais. Nesse projeto foi implementado apenas o Frontend da aplicação para aprendizagem e fixação dos conhecimentos adiquiridos no curso da Udemy 'Modern HTML & CSS From The Beginnig' do professor Brad Traversy.
 
 ---
 
